@@ -1,4 +1,4 @@
-chamisa_chumshei_torah
+Chamisha Chumshei Torah
 ======================
 
-Text Of The Chamisha Chumshai Torah in Normalized Database
+Hebrew Text Of The Chamisha Chumshai Torah (The 5 Books of Moses) in a Normalized Database
